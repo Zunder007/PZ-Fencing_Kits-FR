@@ -1,0 +1,7 @@
+Recipes_FR = {
+	Recipe_Unbundle_Chainlink_Fencing_Kit = "Dégrouper le Kit de Clôture - Rouleau Grillage Galvanisé",
+	Recipe_Bundle_Chainlink_Fencing_Kit = "Grouper le Kit de Clôture - Rouleau Grillage Galvanisé",
+	Recipe_Unroll_Some_Wire = "Dérouler du Grillage",
+	Recipe_Combine_Wire_Into_Roll = "Combiner le Grillage en Rouleau",
+	Recipe_Mangle_Some_Chain_Rolling_Into_Scrap = "Démonter du Grillage Galvanisé en Morceaux de Métal",
+}
