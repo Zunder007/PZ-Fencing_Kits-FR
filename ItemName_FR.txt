@@ -1,0 +1,4 @@
+ItemName_FR = {
+	ItemName_FencingKit.FenceKit = "Kit de Clôture - Rouleau Grillage Galvanisé",
+	ItemName_FencingKit.ChainWireRoll = "Rouleau Grillage Galvanisé",
+}
